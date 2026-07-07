@@ -1,1 +1,3 @@
 lancache.steamcontent.com
+*.steamcontent.com
+*.akamaized.net
